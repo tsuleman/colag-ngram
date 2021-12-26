@@ -1,0 +1,92 @@
+<bos> O1 Verb Aux S <eos>
+<bos> O1 Verb Aux <eos>
+<bos> O1 Verb <eos>
+<bos> O1 Not Verb Aux <eos>
+<bos> Verb Not Aux S <eos>
+<bos> Verb S <eos>
+<bos> Verb <eos>
+<bos> Not Verb S <eos>
+<bos> Not Verb Never Verb Never Verb <eos>
+<bos> O2 O1 Not Verb <eos>
+<bos> O2 Verb Aux S <eos>
+<bos> O2 Never Verb <eos>
+<bos> O3 P O1 Verb <eos>
+<bos> O3 P Verb Not Verb <eos>
+<bos> O3 P Verb S <eos>
+<bos> O3 P Verb Never Aux S <eos>
+<bos> O3 P O2 O1 Verb Not Verb S <eos>
+<bos> O3 P O2 O1 Verb S <eos>
+<bos> O3 P O2 O1 Verb <eos>
+<bos> O3 P O2 O1 Not Aux <eos>
+<bos> O3 P O2 Never Aux <eos>
+<bos> P O1 Verb <eos>
+<bos> P O1 Not Verb <eos>
+<bos> P O2 O1 Verb Aux S <eos>
+<bos> Adv[+WA] Adv O3 P O2 O1 Verb Never Verb S <eos>
+<bos> Adv[+WA] O1 Verb <eos>
+<bos> Adv[+WA] Verb S <eos>
+<bos> Adv[+WA] Verb Never Verb Not Verb Aux <eos>
+<bos> Adv[+WA] O2 O1 Never Aux <eos>
+<bos> Adv[+WA] O3 P O1 Not Verb Not Verb Aux S <eos>
+<bos> Adv[+WA] O3 P Verb <eos>
+<bos> Adv[+WA] O3 P O2 O1 Verb Aux S <eos>
+<bos> Adv[+WA] O3 P O2 O1 Verb S <eos>
+<bos> Adv O1 Verb S <eos>
+<bos> Adv O1 Verb <eos>
+<bos> Adv O1 Verb Never Verb S <eos>
+<bos> Adv Verb S <eos>
+<bos> Adv Verb <eos>
+<bos> Adv Verb Never Verb <eos>
+<bos> Adv O2 O1 Verb Not Verb <eos>
+<bos> Adv O2 O1 Verb S <eos>
+<bos> Adv O2 O1 Never Verb Aux <eos>
+<bos> Adv O2 Not Verb S <eos>
+<bos> Adv O3 P O1 Verb Aux <eos>
+<bos> Adv O3 P O1 Verb S <eos>
+<bos> Adv O3 P O1 Not Verb S <eos>
+<bos> Adv O3 P O1 Never Aux S <eos>
+<bos> Adv O3 P Verb Aux <eos>
+<bos> Adv O3 P O2 O1 Not Aux S <eos>
+<bos> Adv P O1 Verb Not Aux S <eos>
+<bos> Adv P O1 Verb S <eos>
+<bos> Adv P Verb <eos>
+<bos> Adv P Not Verb <eos>
+<bos> O1[+WA] Verb Aux <eos>
+<bos> O1[+WA] Verb Never Verb S <eos>
+<bos> O1[+WA] Not Aux S <eos>
+<bos> O1[+WA] O2 Verb Aux S <eos>
+<bos> O1[+WA] O3 P Verb Aux S <eos>
+<bos> O1[+WA] O3 P O2 Verb Not Aux S <eos>
+<bos> O1[+WA] O3 P Never Aux S <eos>
+<bos> O1[+WA] Adv O1 Verb S <eos>
+<bos> O1[+WA] Adv Verb S <eos>
+<bos> O1[+WA] Adv O2 O1 Verb Not Aux S <eos>
+<bos> O1[+WA] Adv O3 P O2 Verb Aux S <eos>
+<bos> O1[+WA] Adv O3 P Never Verb Aux S <eos>
+<bos> O1[+WA] Adv P O1 Not Verb <eos>
+<bos> O1[+WA] Adv P O1 Never Verb <eos>
+<bos> O1[+WA] Adv P O2 O1 Verb Never Aux S <eos>
+<bos> O2[+WA] O3 P O1 Verb <eos>
+<bos> O2[+WA] Adv O1 Not Verb <eos>
+<bos> O2[+WA] Adv O2 O1 Not Verb <eos>
+<bos> O2[+WA] Adv O3 P Verb Aux <eos>
+<bos> O3[+WA] P O1 Verb Not Verb S <eos>
+<bos> O3[+WA] P Verb <eos>
+<bos> O3[+WA] P Verb Never Aux S <eos>
+<bos> O3[+WA] Adv Verb Not Verb Never Aux S <eos>
+<bos> O3[+WA] Adv O3 P Not Aux <eos>
+<bos> O3[+WA] Adv O3 P O2 O1 Verb S <eos>
+<bos> O3[+WA] Adv O3 P O2 O1 Never Verb S <eos>
+<bos> O3[+WA] Adv P O1 Verb <eos>
+<bos> O3[+WA] Adv P O2 O1 Not Verb Not Aux <eos>
+<bos> S[+WA] O1 Verb Not Aux S <eos>
+<bos> S[+WA] O1 Not Aux S <eos>
+<bos> S[+WA] O1 Never Verb <eos>
+<bos> S[+WA] O2 O1 Verb Not Verb S <eos>
+<bos> S[+WA] O2 O1 Not Aux S <eos>
+<bos> S[+WA] O3 P O1 Never Aux S <eos>
+<bos> S[+WA] O3 P O2 O1 Verb S <eos>
+<bos> S[+WA] O3 P O2 O1 Never Aux S <eos>
+<bos> S[+WA] Adv O3 P Verb Aux <eos>
+<bos> S[+WA] Adv O3 P O2 Verb S <eos>
+<bos> S[+WA] Adv P O1 Not Aux S <eos>
