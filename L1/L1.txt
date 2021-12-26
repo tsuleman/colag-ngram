@@ -1,0 +1,360 @@
+Adv S Aux Not Verb
+Adv S Aux Not Verb O1
+Adv S Aux Not Verb O1 O2
+Adv S Aux Not Verb O1 O2 P O3
+Adv S Aux Not Verb O1 P O3
+Adv S Aux Not Verb P O3
+Adv S Aux Never Verb
+Adv S Aux Verb
+Adv S Aux Never Verb O1
+Adv S Aux Verb O1
+Adv S Aux Never Verb O1 O2
+Adv S Aux Verb O1 O2
+Adv S Aux Never Verb O1 O2 P O3
+Adv S Aux Verb O1 O2 P O3
+Adv S Aux Never Verb O1 P O3
+Adv S Aux Verb O1 P O3
+Adv S Aux Never Verb P O3
+Adv S Aux Verb P O3
+Adv S Never Verb
+Adv S Verb
+Adv S Never Verb O1
+Adv S Verb O1
+Adv S Never Verb O1 O2
+Adv S Verb O1 O2
+Adv S Never Verb O1 O2 P O3
+Adv S Verb O1 O2 P O3
+Adv S Never Verb O1 P O3
+Adv S Verb O1 P O3
+Adv S Never Verb P O3
+Adv S Verb P O3
+O1 S Aux Not Verb Adv
+O1 S Aux Not Verb O2 Adv
+O1 S Aux Not Verb O2 P O3 Adv
+O1 S Aux Not Verb O2 P O3
+O1 S Aux Not Verb O2
+O1 S Aux Not Verb P O3 Adv
+O1 S Aux Not Verb P O3
+O1 S Aux Not Verb
+O1 S Aux Never Verb Adv
+O1 S Aux Verb Adv
+O1 S Aux Never Verb O2 Adv
+O1 S Aux Verb O2 Adv
+O1 S Aux Never Verb O2 P O3 Adv
+O1 S Aux Verb O2 P O3 Adv
+O1 S Aux Never Verb O2 P O3
+O1 S Aux Verb O2 P O3
+O1 S Aux Never Verb O2
+O1 S Aux Verb O2
+O1 S Aux Never Verb P O3 Adv
+O1 S Aux Verb P O3 Adv
+O1 S Aux Never Verb P O3
+O1 S Aux Verb P O3
+O1 S Aux Never Verb
+O1 S Aux Verb
+O1 S Never Verb Adv
+O1 S Verb Adv
+O1 S Never Verb O2 Adv
+O1 S Verb O2 Adv
+O1 S Never Verb O2 P O3 Adv
+O1 S Verb O2 P O3 Adv
+O1 S Never Verb O2 P O3
+O1 S Verb O2 P O3
+O1 S Never Verb O2
+O1 S Verb O2
+O1 S Never Verb P O3 Adv
+O1 S Verb P O3 Adv
+O1 S Never Verb P O3
+O1 S Verb P O3
+O1 S Never Verb
+O1 S Verb
+O2 S Aux Not Verb O1 Adv
+O2 S Aux Not Verb O1 P O3 Adv
+O2 S Aux Not Verb O1 P O3
+O2 S Aux Not Verb O1
+O2 S Aux Never Verb O1 Adv
+O2 S Aux Verb O1 Adv
+O2 S Aux Never Verb O1 P O3 Adv
+O2 S Aux Verb O1 P O3 Adv
+O2 S Aux Never Verb O1 P O3
+O2 S Aux Verb O1 P O3
+O2 S Aux Never Verb O1
+O2 S Aux Verb O1
+O2 S Never Verb O1 Adv
+O2 S Verb O1 Adv
+O2 S Never Verb O1 P O3 Adv
+O2 S Verb O1 P O3 Adv
+O2 S Never Verb O1 P O3
+O2 S Verb O1 P O3
+O2 S Never Verb O1
+O2 S Verb O1
+O3 S Aux Not Verb O1 O2 P Adv
+O3 S Aux Not Verb O1 O2 P
+O3 S Aux Not Verb O1 P Adv
+O3 S Aux Not Verb O1 P
+O3 S Aux Not Verb P Adv
+O3 S Aux Not Verb P
+O3 S Aux Never Verb O1 O2 P Adv
+O3 S Aux Verb O1 O2 P Adv
+O3 S Aux Never Verb O1 O2 P
+O3 S Aux Verb O1 O2 P
+O3 S Aux Never Verb O1 P Adv
+O3 S Aux Verb O1 P Adv
+O3 S Aux Never Verb O1 P
+O3 S Aux Verb O1 P
+O3 S Aux Never Verb P Adv
+O3 S Aux Verb P Adv
+O3 S Aux Never Verb P
+O3 S Aux Verb P
+O3 S Never Verb O1 O2 P Adv
+O3 S Verb O1 O2 P Adv
+O3 S Never Verb O1 O2 P
+O3 S Verb O1 O2 P
+O3 S Never Verb O1 P Adv
+O3 S Verb O1 P Adv
+O3 S Never Verb O1 P
+O3 S Verb O1 P
+O3 S Never Verb P Adv
+O3 S Verb P Adv
+O3 S Never Verb P
+O3 S Verb P
+S Aux Not Verb Adv
+S Aux Not Verb Adv
+S Aux Not Verb O1 Adv
+S Aux Not Verb O1 Adv
+S Aux Not Verb O1 O2 Adv
+S Aux Not Verb O1 O2 Adv
+S Aux Not Verb O1 O2 P O3 Adv
+S Aux Not Verb O1 O2 P O3 Adv
+S Aux Not Verb O1 O2 P O3
+S Aux Not Verb O1 O2 P O3
+S Aux Not Verb O1 O2
+S Aux Not Verb O1 O2
+S Aux Not Verb O1 P O3 Adv
+S Aux Not Verb O1 P O3 Adv
+S Aux Not Verb O1 P O3
+S Aux Not Verb O1 P O3
+S Aux Not Verb O1
+S Aux Not Verb O1
+S Aux Not Verb P O3 Adv
+S Aux Not Verb P O3 Adv
+S Aux Not Verb P O3
+S Aux Not Verb P O3
+S Aux Not Verb
+S Aux Not Verb
+S Aux Never Verb Adv
+S Aux Never Verb Adv
+S Aux Verb Adv
+S Aux Verb Adv
+S Aux Never Verb O1 Adv
+S Aux Never Verb O1 Adv
+S Aux Verb O1 Adv
+S Aux Verb O1 Adv
+S Aux Never Verb O1 O2 Adv
+S Aux Never Verb O1 O2 Adv
+S Aux Verb O1 O2 Adv
+S Aux Verb O1 O2 Adv
+S Aux Never Verb O1 O2 P O3 Adv
+S Aux Never Verb O1 O2 P O3 Adv
+S Aux Verb O1 O2 P O3 Adv
+S Aux Verb O1 O2 P O3 Adv
+S Aux Never Verb O1 O2 P O3
+S Aux Never Verb O1 O2 P O3
+S Aux Verb O1 O2 P O3
+S Aux Verb O1 O2 P O3
+S Aux Never Verb O1 O2
+S Aux Never Verb O1 O2
+S Aux Verb O1 O2
+S Aux Verb O1 O2
+S Aux Never Verb O1 P O3 Adv
+S Aux Never Verb O1 P O3 Adv
+S Aux Verb O1 P O3 Adv
+S Aux Verb O1 P O3 Adv
+S Aux Never Verb O1 P O3
+S Aux Never Verb O1 P O3
+S Aux Verb O1 P O3
+S Aux Verb O1 P O3
+S Aux Never Verb O1
+S Aux Never Verb O1
+S Aux Verb O1
+S Aux Verb O1
+S Aux Never Verb P O3 Adv
+S Aux Never Verb P O3 Adv
+S Aux Verb P O3 Adv
+S Aux Verb P O3 Adv
+S Aux Never Verb P O3
+S Aux Never Verb P O3
+S Aux Verb P O3
+S Aux Verb P O3
+S Aux Never Verb
+S Aux Never Verb
+S Aux Verb
+S Aux Verb
+S Never Verb Adv
+S Never Verb Adv
+S Verb Adv
+S Verb Adv
+S Never Verb O1 Adv
+S Never Verb O1 Adv
+S Verb O1 Adv
+S Verb O1 Adv
+S Never Verb O1 O2 Adv
+S Never Verb O1 O2 Adv
+S Verb O1 O2 Adv
+S Verb O1 O2 Adv
+S Never Verb O1 O2 P O3 Adv
+S Never Verb O1 O2 P O3 Adv
+S Verb O1 O2 P O3 Adv
+S Verb O1 O2 P O3 Adv
+S Never Verb O1 O2 P O3
+S Never Verb O1 O2 P O3
+S Verb O1 O2 P O3
+S Verb O1 O2 P O3
+S Never Verb O1 O2
+S Never Verb O1 O2
+S Verb O1 O2
+S Verb O1 O2
+S Never Verb O1 P O3 Adv
+S Never Verb O1 P O3 Adv
+S Verb O1 P O3 Adv
+S Verb O1 P O3 Adv
+S Never Verb O1 P O3
+S Never Verb O1 P O3
+S Verb O1 P O3
+S Verb O1 P O3
+S Never Verb O1
+S Never Verb O1
+S Verb O1
+S Verb O1
+S Never Verb P O3 Adv
+S Never Verb P O3 Adv
+S Verb P O3 Adv
+S Verb P O3 Adv
+S Never Verb P O3
+S Never Verb P O3
+S Verb P O3
+S Verb P O3
+S Never Verb
+S Never Verb
+S Verb
+S Verb
+S Aux Not Verb Adv
+S Aux Not Verb Adv
+S Aux Not Verb O1 Adv
+S Aux Not Verb O1 Adv
+S Aux Not Verb O1 O2 Adv
+S Aux Not Verb O1 O2 Adv
+S Aux Not Verb O1 O2 P O3 Adv
+S Aux Not Verb O1 O2 P O3 Adv
+S Aux Not Verb O1 O2 P O3
+S Aux Not Verb O1 O2 P O3
+S Aux Not Verb O1 O2
+S Aux Not Verb O1 O2
+S Aux Not Verb O1 P O3 Adv
+S Aux Not Verb O1 P O3 Adv
+S Aux Not Verb O1 P O3
+S Aux Not Verb O1 P O3
+S Aux Not Verb O1
+S Aux Not Verb O1
+S Aux Not Verb P O3 Adv
+S Aux Not Verb P O3 Adv
+S Aux Not Verb P O3
+S Aux Not Verb P O3
+S Aux Not Verb
+S Aux Not Verb
+S Aux Never Verb Adv
+S Aux Never Verb Adv
+S Aux Verb Adv
+S Aux Verb Adv
+S Aux Never Verb O1 Adv
+S Aux Never Verb O1 Adv
+S Aux Verb O1 Adv
+S Aux Verb O1 Adv
+S Aux Never Verb O1 O2 Adv
+S Aux Never Verb O1 O2 Adv
+S Aux Verb O1 O2 Adv
+S Aux Verb O1 O2 Adv
+S Aux Never Verb O1 O2 P O3 Adv
+S Aux Never Verb O1 O2 P O3 Adv
+S Aux Verb O1 O2 P O3 Adv
+S Aux Verb O1 O2 P O3 Adv
+S Aux Never Verb O1 O2 P O3
+S Aux Never Verb O1 O2 P O3
+S Aux Verb O1 O2 P O3
+S Aux Verb O1 O2 P O3
+S Aux Never Verb O1 O2
+S Aux Never Verb O1 O2
+S Aux Verb O1 O2
+S Aux Verb O1 O2
+S Aux Never Verb O1 P O3 Adv
+S Aux Never Verb O1 P O3 Adv
+S Aux Verb O1 P O3 Adv
+S Aux Verb O1 P O3 Adv
+S Aux Never Verb O1 P O3
+S Aux Never Verb O1 P O3
+S Aux Verb O1 P O3
+S Aux Verb O1 P O3
+S Aux Never Verb O1
+S Aux Never Verb O1
+S Aux Verb O1
+S Aux Verb O1
+S Aux Never Verb P O3 Adv
+S Aux Never Verb P O3 Adv
+S Aux Verb P O3 Adv
+S Aux Verb P O3 Adv
+S Aux Never Verb P O3
+S Aux Never Verb P O3
+S Aux Verb P O3
+S Aux Verb P O3
+S Aux Never Verb
+S Aux Never Verb
+S Aux Verb
+S Aux Verb
+S Never Verb Adv
+S Never Verb Adv
+S Verb Adv
+S Verb Adv
+S Never Verb O1 Adv
+S Never Verb O1 Adv
+S Verb O1 Adv
+S Verb O1 Adv
+S Never Verb O1 O2 Adv
+S Never Verb O1 O2 Adv
+S Verb O1 O2 Adv
+S Verb O1 O2 Adv
+S Never Verb O1 O2 P O3 Adv
+S Never Verb O1 O2 P O3 Adv
+S Verb O1 O2 P O3 Adv
+S Verb O1 O2 P O3 Adv
+S Never Verb O1 O2 P O3
+S Never Verb O1 O2 P O3
+S Verb O1 O2 P O3
+S Verb O1 O2 P O3
+S Never Verb O1 O2
+S Never Verb O1 O2
+S Verb O1 O2
+S Verb O1 O2
+S Never Verb O1 P O3 Adv
+S Never Verb O1 P O3 Adv
+S Verb O1 P O3 Adv
+S Verb O1 P O3 Adv
+S Never Verb O1 P O3
+S Never Verb O1 P O3
+S Verb O1 P O3
+S Verb O1 P O3
+S Never Verb O1
+S Never Verb O1
+S Verb O1
+S Verb O1
+S Never Verb P O3 Adv
+S Never Verb P O3 Adv
+S Verb P O3 Adv
+S Verb P O3 Adv
+S Never Verb P O3
+S Never Verb P O3
+S Verb P O3
+S Verb P O3
+S Never Verb
+S Never Verb
+S Verb
+S Verb
