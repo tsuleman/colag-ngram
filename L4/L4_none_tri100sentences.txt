@@ -1,0 +1,93 @@
+O1 Verb Aux S
+O1 Verb Aux
+O1 Verb Never Aux S
+O1 Verb
+O1 Not Verb S
+O1 Never Verb S
+Verb Never Aux S
+Verb Never Aux
+Verb
+O2 O1 Verb Not Aux S
+O2 O1 Verb
+O2 Verb Not Aux S
+O2 Verb Not Aux
+O2 Verb Never Aux
+O3 P O1 Verb Not Aux
+O3 P O1 Verb Aux S
+O3 P O1 Verb S
+O3 P O1 Not Verb S
+O3 P Verb Not Aux
+O3 P Verb Aux
+O3 P Verb Never Aux S
+O3 P O2 O1 Verb Aux S
+O3 P O2 O1 Verb S
+O3 P O2 O1 Not Verb S
+O3 P O2 O1 Never Verb S
+O3 P O2 O1 Never Verb
+O3 P O2 Not Verb S
+O3 P O2 Never Verb S
+P O1 Never Verb S
+P O2 O1 Verb Never Aux
+P O2 Not Verb S
+Never Verb
+Adv[+WA] O1 Never Verb S
+Adv[+WA] Not Verb S
+Adv[+WA] O2 O1 Verb Aux S
+Adv[+WA] O2 O1 Never Verb S
+Adv[+WA] O3 P Verb Never Aux S
+Adv[+WA] O3 P Verb
+Adv[+WA] O3 P O2 O1 Never Verb S
+Adv Adv O3 P O1 Not Verb
+Adv O1 Verb Never Aux S
+Adv O1 Not Verb S
+Adv O1 Never Verb S
+Adv O1 Never Verb
+Adv Verb Not Aux S
+Adv Verb Never Aux
+Adv Not Adv[+WA] O1 Verb S
+Adv O2 O1 Verb Aux
+Adv O2 O1 Verb S
+Adv O2 O1 Never Verb
+Adv O2 Verb Never Aux S
+Adv O3 P O1 Verb Aux S
+Adv O3 P O1 Verb S
+Adv O3 P O1 Verb
+Adv O3 P O2 O1 Verb Never Aux S
+Adv O3 P O2 O1 Verb
+Adv O3 P O2 Never Verb
+Adv P O1 Verb Not Aux S
+Adv P O1 Not Verb S
+Adv P Verb S
+Adv P Not Verb
+Adv P O2 O1 Not Verb S
+O1[+WA] O2 Verb S
+O1[+WA] O2 Verb Never Aux S
+O1[+WA] O3 P Not Verb S
+O1[+WA] O3 P Never Verb S
+O1[+WA] Adv Verb Aux S
+O1[+WA] Adv O3 P O1 Verb Aux
+O1[+WA] Adv O3 P Verb S
+O1[+WA] Adv O3 P Verb Never Aux S
+O2[+WA] O3 P O1 Not Verb S
+O2[+WA] O3 P Never Verb S
+O2[+WA] Adv O1 Verb Never Aux S
+O2[+WA] Adv O1 Not Verb S
+O2[+WA] Adv O1 Not Verb
+O3[+WA] O1 Never Verb S
+O3[+WA] P O1 Not Verb S
+O3[+WA] P O2 O1 Never Verb
+O3[+WA] Adv P O1 Verb
+O3[+WA] Adv P Verb Never Aux S
+O3[+WA] Adv P O2 O1 Verb Aux
+S[+WA] O3 P Verb Never Aux
+S[+WA] O3 P O2 O1 Never Verb
+S[+WA] Adv O1 Never Verb
+S[+WA] Adv Verb
+S[+WA] Adv O2 O1 Verb Never Aux
+S[+WA] Adv O2 Not Verb S
+S[+WA] Adv O3 P O1 Verb S
+S[+WA] Adv O3 P O1 Never Verb S
+S[+WA] Adv O3 P Verb Not Aux S
+S[+WA] Adv O3 P Verb Not Aux
+S[+WA] Adv O3 P Not Verb
+S[+WA] Adv O3 P O2 O1 Verb Not Aux S
