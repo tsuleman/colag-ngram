@@ -1,0 +1,497 @@
+Adv <EOS>
+<EOS>
+<BOS>  Not Verb <EOS>
+<BOS>  Verb O1 S Aux Never Verb O1 P O3 Adv <EOS>
+<BOS>  <EOS>
+<BOS>  P <EOS>
+<BOS>  P O3 Adv <EOS>
+<BOS> Adv  Never Verb O1 S Never Verb O1 O2 <EOS>
+<BOS> Adv S Aux  <EOS>
+<BOS> Adv S Aux  O2 <EOS>
+<BOS> Adv S Aux Not Verb Adv <EOS>
+<BOS> Adv S Aux Not Verb O1 S Aux Not Verb O1 <EOS>
+<BOS> Adv S Aux Not Verb O1 S Never Verb <EOS>
+<BOS> Adv S Aux Not Verb O1 S Never Verb O2 P  S Aux Never Verb O1 S Aux Never Verb <EOS>
+<BOS> Adv S Aux Not Verb O1 <EOS>
+<BOS> Adv S Aux Not Verb O1 O2 P O3 Adv <EOS>
+<BOS> Adv S Aux Not Verb O1 P <EOS>
+<BOS> Adv S Aux Not Verb O1 P O3 <EOS>
+<BOS> Adv S Aux Not Verb O2 S Aux Not Verb O1 P O3 S Aux Never Verb O2 P Adv <EOS>
+<BOS> Adv S Aux Not Verb O2 P <EOS>
+<BOS> Adv S Aux Not Verb P Adv <EOS>
+<BOS> Adv S Aux Verb Adv <EOS>
+<BOS> Adv S Aux Verb <EOS>
+<BOS> Adv S Aux Verb O1 S Verb O1 P O3 Adv <EOS>
+<BOS> Adv S Aux Verb O1 S Never Verb O1 S Aux Not Verb Adv S Aux Never Verb O1 O2 Adv <EOS>
+<BOS> Adv S Aux Verb O1 <EOS>
+<BOS> Adv S Aux Verb O1 O2 Adv <EOS>
+<BOS> Adv S Aux Verb O1 O2 P O3 <EOS>
+<BOS> Adv S Aux Verb O1 P O3 S Aux Verb P O3 S Aux Never Verb P <EOS>
+<BOS> Adv S Aux Verb O1 P O3 S Verb Adv <EOS>
+<BOS> Adv S Aux Verb O1 P O3 S Verb O1 O2 S Verb O1 Adv <EOS>
+<BOS> Adv S Aux Verb O2 <EOS>
+<BOS> Adv S Aux Verb O2 P O3 <EOS>
+<BOS> Adv S Aux Verb P O3 S Aux Not Verb O1 S Verb O1 O2 S Verb P O3 Adv <EOS>
+<BOS> Adv S Aux Verb P O3 S Verb P O3 Adv <EOS>
+<BOS> Adv S Aux Verb P O3 <EOS>
+<BOS> Adv S Aux Never Verb <EOS>
+<BOS> Adv S Aux Never Verb O1 O2 S Never Verb O2 P O3 <EOS>
+<BOS> Adv S Aux Never Verb O1 O2 <EOS>
+<BOS> Adv S Aux Never Verb O1 P O3 <EOS>
+<BOS> Adv S Aux Never Verb O2 <EOS>
+<BOS> Adv S Aux Never Verb O2 P O3 Adv <EOS>
+<BOS> Adv S Aux Never Verb P O3 Adv <EOS>
+<BOS> Adv S Verb <EOS>
+<BOS> Adv S Verb O1 O2 S Aux Never Verb Adv S Aux Not Verb P O3 Adv <EOS>
+<BOS> Adv S Verb O1 O2 <EOS>
+<BOS> Adv S Verb O1 P O3 S Verb O1 S Verb O1 P O3 S Never Verb P Adv <EOS>
+<BOS> Adv S Verb O1 P O3 <EOS>
+<BOS> Adv S Verb O2 <EOS>
+<BOS> Adv S Verb P Adv <EOS>
+<BOS> Adv S Verb P <EOS>
+<BOS> Adv S Verb P O3 Adv S Aux Verb Adv <EOS>
+<BOS> Adv S Never Verb O1 S Aux Verb P O3 S Aux Not Verb P Adv <EOS>
+<BOS> Adv S Never Verb O1 S Verb O1 O2 <EOS>
+<BOS> Adv S Never Verb O1 <EOS>
+<BOS> Adv S Never Verb O1 O2 <EOS>
+<BOS> Adv S Never Verb O1 O2 P O3 S Never Verb O1 S Never Verb O1 S Never Verb P O3 <EOS>
+<BOS> Adv S Never Verb O1 O2 P O3 <EOS>
+<BOS> Adv S Never Verb O1 P O3 <EOS>
+<BOS> Adv S Never Verb O2 Adv <EOS>
+<BOS> Adv <EOS>
+<BOS> S  Adv S Aux Verb O1 O2 S Aux Verb O1 <EOS>
+<BOS> S Aux  Adv <EOS>
+<BOS> S Aux  S Aux Not Verb O2 P O3 <EOS>
+<BOS> S Aux  <EOS>
+<BOS> S Aux Not Verb  <BOS> Adv <EOS>
+<BOS> S Aux Not Verb Adv S Verb P O3 <EOS>
+<BOS> S Aux Not Verb Adv S Never Verb Adv S Aux Verb O1 S Aux Never Verb O2 Adv S Verb P O3 <EOS>
+<BOS> S Aux Not Verb Adv <EOS>
+<BOS> S Aux Not Verb <EOS>
+<BOS> S Aux Not Verb O1 Adv S Aux Not Verb O1 Adv <EOS>
+<BOS> S Aux Not Verb O1 Adv S Aux Verb <EOS>
+<BOS> S Aux Not Verb O1 Adv <EOS>
+<BOS> S Aux Not Verb O1 S Aux Verb <EOS>
+<BOS> S Aux Not Verb O1 S Aux Verb P O3 Adv <EOS>
+<BOS> S Aux Not Verb O1 S Aux Never Verb O1 S Aux Not Verb <EOS>
+<BOS> S Aux Not Verb O1 S Verb Adv <EOS>
+<BOS> S Aux Not Verb O1 S Verb O1 S Verb O2 P O3 S Verb O1 O2 S Aux Never Verb O1 <EOS>
+<BOS> S Aux Not Verb O1 S Verb O2 <EOS>
+<BOS> S Aux Not Verb O1 S Never Verb O1 Adv <EOS>  <EOS>
+<BOS> S Aux Not Verb O1 S Never Verb O1 O2 S Aux Never Verb O2 P <EOS>
+<BOS> S Aux Not Verb O1 <EOS>
+<BOS> S Aux Not Verb O1 O2 Adv S Aux Never Verb O1 S Aux Not Verb P O3 <EOS>
+<BOS> S Aux Not Verb O1 O2 Adv S Aux Never Verb O1 P O3 Adv <EOS>
+<BOS> S Aux Not Verb O1 O2 S Aux Verb P O3 <EOS>
+<BOS> S Aux Not Verb O1 O2 S Never Verb P O3 S Aux Not Verb <EOS>
+<BOS> S Aux Not Verb O1 O2 <EOS>
+<BOS> S Aux Not Verb O1 O2 P O3 Adv <EOS>
+<BOS> S Aux Not Verb O1 P Adv S Verb O1 P Adv <EOS>
+<BOS> S Aux Not Verb O1 P Adv <EOS>
+<BOS> S Aux Not Verb O1 P O3 Adv S Aux Not Verb <EOS>
+<BOS> S Aux Not Verb O1 P O3 Adv S Aux Verb O1 P O3 Adv <EOS>
+<BOS> S Aux Not Verb O1 P O3 Adv S Aux Never Verb O1 P O3 S Verb O2 P O3 <EOS>
+<BOS> S Aux Not Verb O1 P O3 S Aux Never Verb O1 P Adv S Aux Not Verb <EOS>
+<BOS> S Aux Not Verb O1 P O3 <EOS>
+<BOS> S Aux Not Verb O2 Adv <EOS>
+<BOS> S Aux Not Verb O2 S Aux Not Verb P Adv <EOS>
+<BOS> S Aux Not Verb O2 S Aux Verb O1 Adv <EOS>
+<BOS> S Aux Not Verb O2 P Adv <EOS>
+<BOS> S Aux Not Verb O2 P O3 Adv <EOS>
+<BOS> S Aux Not Verb O2 P O3 <EOS>
+<BOS> S Aux Not Verb P Adv <EOS>
+<BOS> S Aux Not Verb P O3 Adv <EOS>
+<BOS> S Aux Not Verb P O3 S Aux Verb <EOS>
+<BOS> S Aux Not Verb P O3 S Aux Never Verb P <EOS>
+<BOS> S Aux Not Verb P O3 <EOS>
+<BOS> S Aux Verb  Verb O1 P O3 <EOS>
+<BOS> S Aux Verb Adv S Aux Not Verb O1 O2 P O3 S Never Verb Adv S Verb O1 O2 S Aux Not Verb O1 O2 <EOS>
+<BOS> S Aux Verb Adv S Aux Not Verb O2 P <EOS>
+<BOS> S Aux Verb Adv S Verb O1 Adv <EOS>
+<BOS> S Aux Verb Adv <EOS>
+<BOS> S Aux Verb <EOS>
+<BOS> S Aux Verb O1 Adv S Aux Verb O1 S Aux Never Verb O2 P O3 <EOS>
+<BOS> S Aux Verb O1 Adv S Aux Never Verb O1 O2 P O3 Adv <EOS>
+<BOS> S Aux Verb O1 Adv <EOS>
+<BOS> S Aux Verb O1 S Aux Not Verb O1 S Never Verb O2 P O3 Adv <EOS>
+<BOS> S Aux Verb O1 S Aux Verb O1 S Aux Not Verb Adv S Aux Verb O1 O2 P O3 <EOS>
+<BOS> S Aux Verb O1 S Aux Verb O1 O2 P O3 Adv <EOS>
+<BOS> S Aux Verb O1 S Aux Never Verb <EOS>
+<BOS> S Aux Verb O1 S Aux Never Verb O1 O2 S Aux Verb O1 Adv <EOS>
+<BOS> S Aux Verb O1 S Verb O1 P O3 Adv  O1 O2 P <EOS>
+<BOS> S Aux Verb O1 S Never Verb Adv <EOS>
+<BOS> S Aux Verb O1 S Never Verb <EOS>
+<BOS> S Aux Verb O1 S Never Verb P O3 S Never  P O3 Adv <EOS>
+<BOS> S Aux Verb O1 <EOS>
+<BOS> S Aux Verb O1 O2 S Aux Not Verb O1 S Aux Never Verb O1 P <EOS>
+<BOS> S Aux Verb O1 O2 S Aux Not Verb O1 P O3 <EOS>
+<BOS> S Aux Verb O1 O2 S Aux Verb <EOS>
+<BOS> S Aux Verb O1 O2 S Aux Verb O1 S Aux Never Verb O2 Adv <EOS>
+<BOS> S Aux Verb O1 O2 <EOS>
+<BOS> S Aux Verb O1 O2 P Adv <EOS>
+<BOS> S Aux Verb O1 O2 P <EOS>
+<BOS> S Aux Verb O1 O2 P O3 S Never Verb O1 S Verb Adv <EOS>
+<BOS> S Aux Verb O1 O2 P O3 <EOS>
+<BOS> S Aux Verb O1 P Adv <EOS>
+<BOS> S Aux Verb O1 P O3 Adv <EOS>
+<BOS> S Aux Verb O1 P O3 S Aux Not Verb O1 <EOS>
+<BOS> S Aux Verb O1 P O3 S Aux Not Verb P O3 Adv <EOS>
+<BOS> S Aux Verb O1 P O3 S Aux Verb O1 Adv <EOS>
+<BOS> S Aux Verb O1 P O3 S Aux Verb P O3 Adv S Aux Not Verb Adv <EOS>
+<BOS> S Aux Verb O1 P O3 S Never Verb P Adv <EOS>
+<BOS> S Aux Verb O1 P O3 <EOS>
+<BOS> S Aux Verb O2 <EOS>
+<BOS> S Aux Verb O2 P O3 <EOS>
+<BOS> S Aux Verb P <EOS>
+<BOS> S Aux Verb P O3 Adv S Aux Not Verb O1 P Adv <EOS>
+<BOS> S Aux Verb P O3 Adv S Never Verb P O3 S Aux Not Verb O1 Adv S Aux Verb Adv <EOS>
+<BOS> S Aux Verb P O3 <EOS>
+<BOS> S Aux Never Verb Adv S Aux Not Verb O1 S Aux Never Verb P O3 <EOS>
+<BOS> S Aux Never Verb Adv S Aux Not Verb O1 S Verb O2 <EOS>
+<BOS> S Aux Never Verb Adv <EOS>
+<BOS> S Aux Never Verb <EOS>
+<BOS> S Aux Never Verb O1 Adv <EOS>
+<BOS> S Aux Never Verb O1 S Aux Not Verb O1 S Aux Never Verb O1 P O3 <EOS>
+<BOS> S Aux Never Verb O1 S Aux Not Verb O1 <EOS>
+<BOS> S Aux Never Verb O1 S Aux Not Verb P O3 Adv <EOS>
+<BOS> S Aux Never Verb O1 S Aux Not Verb P O3 <EOS>
+<BOS> S Aux Never Verb O1 S Aux Verb Adv <EOS>
+<BOS> S Aux Never Verb O1 S Aux Verb O2 S Aux Never Verb O1 O2 P Adv <EOS>
+<BOS> S Aux Never Verb O1 S Aux Verb O2 <EOS>
+<BOS> S Aux Never Verb O1 S Verb O1 <EOS>
+<BOS> S Aux Never Verb O1 S Verb O1 O2 P Adv <EOS>
+<BOS> S Aux Never Verb O1 S Verb O2 S Aux Not Verb O1 P O3 <EOS>
+<BOS> S Aux Never Verb O1 S Never Verb O1 S Never Verb O2 P Adv <EOS>
+<BOS> S Aux Never Verb O1 <EOS>
+<BOS> S Aux Never Verb O1 O2 Adv S Aux Never Verb O2 P Adv S Aux Verb  O3 S Aux Verb O1 O2 P O3 <EOS>
+<BOS> S Aux Never Verb O1 O2 Adv <EOS>
+<BOS> S Aux Never Verb O1 O2 S Aux Not Verb Adv S Aux Not Verb O1 O2 S Aux Verb O1 O2 Adv S Aux Never Verb O1 S Aux Not Verb O1 S Never Verb O1 O2 S Verb O1 S Never Verb O1 S Aux Not Verb O1 P <EOS>
+<BOS> S Aux Never Verb O1 O2 S Aux Not Verb O1 P <EOS>
+<BOS> S Aux Never Verb O1 O2 S Aux Never Verb O1 O2 P O3 <EOS>
+<BOS> S Aux Never Verb O1 O2 S Never Verb <EOS>
+<BOS> S Aux Never Verb O1 O2 <EOS>
+<BOS> S Aux Never Verb O1 O2 P Adv <EOS>
+<BOS> S Aux Never Verb O1 O2 P <EOS>
+<BOS> S Aux Never Verb O1 O2 P O3 Adv S Verb O1 P O3 Adv <EOS>
+<BOS> S Aux Never Verb O1 O2 P O3 S Never Verb O1 Adv <EOS>
+<BOS> S Aux Never Verb O1 O2 P O3 <EOS>
+<BOS> S Aux Never Verb O1 P <EOS>
+<BOS> S Aux Never Verb O1 P O3 Adv <EOS>
+<BOS> S Aux Never Verb O1 P O3 S Never Verb O1 O2 P O3 Adv <EOS>
+<BOS> S Aux Never Verb O1 P O3 <EOS>
+<BOS> S Aux Never Verb O2 Adv <EOS>
+<BOS> S Aux Never Verb O2 S Never Verb O1 <EOS>
+<BOS> S Aux Never Verb O2 S Never Verb O2 P O3 <EOS>
+<BOS> S Aux Never Verb O2 P <EOS>
+<BOS> S Aux Never Verb O2 P O3 Adv <EOS>
+<BOS> S Aux Never Verb O2 P O3 S Never Verb O1 S Aux Never Verb <EOS>
+<BOS> S Aux Never Verb O2 P O3 <EOS>
+<BOS> S Aux Never Verb P  Aux Not Verb <EOS>
+<BOS> S Aux Never Verb P Adv S Never Verb O1 P O3 Adv <EOS>
+<BOS> S Aux Never Verb P <EOS>
+<BOS> S Aux Never Verb P O3 Adv S Aux Not Verb Adv <EOS>
+<BOS> S Aux Never Verb P O3 Adv S Aux Not Verb <EOS>
+<BOS> S Aux Never Verb P O3 Adv S Verb O2 P O3 S Never Verb O1 O2 S Aux Never Verb O2 P O3 Adv <EOS>
+<BOS> S Aux Never Verb P O3 Adv <EOS>
+<BOS> S Aux Never Verb P O3 S Aux Verb O1 <EOS>
+<BOS> S Aux Never Verb P O3 <EOS>
+<BOS> S Verb Adv S Verb O1 O2 Adv <EOS>
+<BOS> S Verb Adv <EOS>
+<BOS> S Verb <EOS>
+<BOS> S Verb O1 Adv S Aux Verb O2 S Aux Never Verb <EOS>
+<BOS> S Verb O1 Adv S Never Verb O2 <EOS>
+<BOS> S Verb O1 Adv <EOS>
+<BOS> S Verb O1 S Aux Not Verb O1 <EOS>
+<BOS> S Verb O1 S Aux Verb O1 O2 Adv <EOS>
+<BOS> S Verb O1 S Aux Never Verb O2 S Verb <EOS>
+<BOS> S Verb O1 S Aux Never Verb P O3 <EOS>
+<BOS> S Verb O1 S Never Verb P O3 Adv S Aux Not Verb O1 P O3 S Aux Not Verb O1 P Adv <EOS>
+<BOS> S Verb O1 <EOS>
+<BOS> S Verb O1 O2 Adv <EOS>
+<BOS> S Verb O1 O2 S Aux Verb O1 S Aux Verb O2 S Verb O2 P O3 <EOS>
+<BOS> S Verb O1 O2 S Verb O2 P Adv <EOS>
+<BOS> S Verb O1 O2 P <EOS>
+<BOS> S Verb O1 O2 P O3 S Aux Verb <EOS>
+<BOS> S Verb O1 O2 P O3 S Aux Verb O1 O2 S Aux Verb P O3 Adv S Never Verb O1 S Aux Verb O1 <EOS>
+<BOS> S Verb O1 O2 P O3 <EOS>
+<BOS> S Verb O1 P  P O3 <EOS>
+<BOS> S Verb O1 P Adv <EOS>
+<BOS> S Verb O1 P <EOS>
+<BOS> S Verb O1 P O3 Adv <EOS>
+<BOS> S Verb O1 P O3 <EOS>
+<BOS> S Verb O2 Adv <EOS>
+<BOS> S Verb O2 S Aux Not Verb O1 O2 P O3 <EOS>
+<BOS> S Verb O2 S Aux Not Verb O1 P O3 Adv S Verb P <EOS>
+<BOS> S Verb O2 S Aux Verb P <EOS>
+<BOS> S Verb O2 P <EOS>
+<BOS> S Verb P Adv S Aux Not Verb P O3 <EOS>
+<BOS> S Verb P Adv <EOS>
+<BOS> S Verb P <EOS>
+<BOS> S Verb P O3 Adv S Aux Never Verb O1 O2 S Verb O1 O2 <EOS>
+<BOS> S Verb P O3 S Aux Never Verb O1 P O3 Adv S Never Verb O1 S Verb O1 P O3 <EOS>
+<BOS> S Verb P O3 S Verb O1 <EOS>
+<BOS> S Verb P O3 <EOS>
+<BOS> S Never Verb  Not Verb O1 <EOS>
+<BOS> S Never Verb  O3 S Aux Not Verb O1 <EOS>
+<BOS> S Never Verb Adv S Never Verb O1 S Aux Verb O1 P <EOS>
+<BOS> S Never Verb <EOS>
+<BOS> S Never Verb O1 Adv <EOS>
+<BOS> S Never Verb O1 S Aux Not Verb O1 O2 S Aux Never Verb P <EOS>
+<BOS> S Never Verb O1 S Aux Not Verb O2 P O3 Adv <EOS>
+<BOS> S Never Verb O1 S Aux Verb O1 S Aux Never Verb <EOS>
+<BOS> S Never Verb O1 S Aux Verb O1 P O3 <EOS>
+<BOS> S Never Verb O1 S Aux Never Verb <EOS>
+<BOS> S Never Verb O1 S Aux Never Verb O1 P Adv <EOS>
+<BOS> S Never Verb O1 S Aux Never Verb O1 P <EOS>
+<BOS> S Never Verb O1 S Aux Never Verb O2 P O3  O2 P Adv <EOS>
+<BOS> S Never Verb O1 S Aux Never Verb P O3 S Never Verb P <EOS>
+<BOS> S Never Verb O1 S Verb  Never Verb O1 O2 S Aux Verb <EOS>
+<BOS> S Never Verb O1 S Verb O1 O2 <EOS>
+<BOS> S Never Verb O1 S Never Verb O1 O2 S Aux Verb O2 S Verb O1 S Verb P O3 <EOS>
+<BOS> S Never Verb O1 S Never Verb O1 O2 S Never Verb O1 O2 Adv S Aux Verb O1 S Aux Not Verb <EOS>
+<BOS> S Never Verb O1 S Never Verb O1 O2 P O3 Adv <EOS>
+<BOS> S Never Verb O1 S Never Verb O1 P O3 S Aux Not Verb O2 S Never Verb O1 O2 S Aux Verb P O3 <EOS>
+<BOS> S Never Verb O1 S Never Verb O2 <EOS>
+<BOS> S Never Verb O1 S Never Verb O2 P O3 S Verb O1 O2 P O3 <EOS>
+<BOS> S Never Verb O1 <EOS>
+<BOS> S Never Verb O1 O2 Adv S Verb  S Verb O1 P O3 Adv <EOS>
+<BOS> S Never Verb O1 O2 Adv S Never Verb O1 P Adv <EOS>
+<BOS> S Never Verb O1 O2 S Aux Never Verb O1  O3 S Aux Never Verb O1 <EOS>
+<BOS> S Never Verb O1 O2 S Verb O1 Adv <EOS>
+<BOS> S Never Verb O1 O2 S Verb O2 P Adv <EOS>
+<BOS> S Never Verb O1 O2 <EOS>
+<BOS> S Never Verb O1 O2 P O3 Adv S Aux Never Verb O2 Adv <EOS>
+<BOS> S Never Verb O1 O2 P O3 S Aux Not Verb P Adv <EOS>
+<BOS> S Never Verb O1 O2 P O3 <EOS>
+<BOS> S Never Verb O1 P <EOS>
+<BOS> S Never Verb O1 P O3 Adv <EOS>
+<BOS> S Never Verb O1 P O3 S Aux Verb O2 P O3 <EOS>
+<BOS> S Never Verb O1 P O3 S Aux Never Verb O1 S Never Verb P O3 Adv S Aux Never Verb O1 P <EOS>
+<BOS> S Never Verb O1 P O3 <EOS>
+<BOS> S Never Verb O2 Adv <EOS>
+<BOS> S Never Verb O2 S Aux Not Verb Adv <EOS>
+<BOS> S Never Verb O2 P O3 <EOS>
+<BOS> S Never Verb P Adv <EOS>
+<BOS> S Never Verb P <EOS>
+<BOS> S Never Verb P O3 S Aux Not Verb P O3 <EOS>
+<BOS> S Never Verb P O3 S Verb O1 Adv <EOS>
+<BOS> S Never Verb P O3 <EOS>
+<BOS> O1  Verb O1 O2 P Adv S Aux Verb O1 O2 S Aux Not Verb O1 P Adv <EOS>
+<BOS> O1  Never Verb <EOS>
+<BOS> O1 Adv S Aux Not Verb O1 S Aux Not Verb O1 S Aux Never Verb O1 P O3 Adv <EOS>
+<BOS> O1 Adv S Aux Verb O1 O2 <EOS>
+<BOS> O1 Adv S Aux Verb O1 O2 P O3 <EOS>
+<BOS> O1 Adv S Verb O1 S Verb O1 S Aux Never Verb O1 O2 P O3 Adv <EOS>
+<BOS> O1 Adv S Never Verb O1 S Aux Never Verb <EOS>
+<BOS> O1 Adv <EOS>
+<BOS> O1 S Aux  Adv S Never Verb <EOS>
+<BOS> O1 S Aux  O1 O2 Adv <EOS>
+<BOS> O1 S Aux  O1 O2 P Adv <EOS>
+<BOS> O1 S Aux  P O3 <EOS>
+<BOS> O1 S Aux Not Verb O1 <EOS>
+<BOS> O1 S Aux Not Verb O1 O2 P O3 Adv S Aux Not Verb <EOS>
+<BOS> O1 S Aux Not Verb O2 S Aux  P <EOS>
+<BOS> O1 S Aux Not Verb O2 S Aux Verb O1 S Aux Not Verb O1 O2 P O3 S Aux Not Verb P <EOS>
+<BOS> O1 S Aux Not Verb O2 S Verb <EOS>
+<BOS> O1 S Aux Not Verb P Adv <EOS>
+<BOS> O1 S Aux Not Verb P <EOS>
+<BOS> O1 S Aux Not Verb P O3 S Aux Not Verb P O3 Adv S Never Verb P O3 S Verb <EOS>
+<BOS> O1 S Aux Not Verb P O3 <EOS>
+<BOS> O1 S Aux Verb Adv S Aux Not Verb P <EOS>
+<BOS> O1 S Aux Verb Adv <EOS>
+<BOS> O1 S Aux Verb <EOS>
+<BOS> O1 S Aux Verb O1 O2 <EOS>
+<BOS> O1 S Aux Verb O1 O2 P Adv <EOS>
+<BOS> O1 S Aux Verb O1 O2 P O3 S Aux Verb P <EOS>
+<BOS> O1 S Aux Verb O1 O2 P O3 <EOS>
+<BOS> O1 S Aux Verb O1 P O3 <EOS>
+<BOS> O1 S Aux Verb O2 <EOS>
+<BOS> O1 S Aux Verb P Adv S Verb <EOS>
+<BOS> O1 S Aux Verb P O3 S Aux Not Verb O2 P O3 Adv S Verb O1 <EOS>
+<BOS> O1 S Aux Verb P O3 S Aux Verb O1 P O3 Adv <EOS>
+<BOS> O1 S Aux Never Verb O1 S Never  Never Verb O1 S Aux Not Verb O1 O2 P O3 Adv <EOS>
+<BOS> O1 S Aux Never Verb O1 S Never Verb P O3 S Aux Never Verb Adv <EOS>
+<BOS> O1 S Aux Never Verb O1 P <EOS>
+<BOS> O1 S Aux Never Verb O2 <EOS>
+<BOS> O1 S Aux Never Verb P O3 Adv S Aux Verb O1 S Verb O1 O2 S Aux Verb O1 O2 P <EOS>
+<BOS> O1 S Verb Adv <EOS>
+<BOS> O1 S Verb O1 Adv <EOS>
+<BOS> O1 S Verb O1 S Aux Not Verb O1 P O3 Adv <EOS>
+<BOS> O1 S Verb O1 S Aux Not Verb P O3 <EOS>
+<BOS> O1 S Verb O1 S Never Verb Adv <EOS>
+<BOS> O1 S Verb O1 P O3 Adv S Never Verb P Adv <EOS>
+<BOS> O1 S Verb O2 S Aux Verb P O3 <EOS>
+<BOS> O1 S Verb O2 P O3 Adv <EOS>
+<BOS> O1 S Verb O2 P O3 <EOS>
+<BOS> O1 S Never Verb <EOS>
+<BOS> O1 S Never Verb O1 S Aux Not Verb O1 <EOS>
+<BOS> O1 S Never Verb O1 O2 S Never Verb O1 S Aux Not Verb O1 P O3 S Verb O1 P <EOS>
+<BOS> O1 S Never Verb O1 O2 <EOS>
+<BOS> O1 S Never Verb O1 P <EOS>
+<BOS> O1 S Never Verb O1 P O3 <EOS>
+<BOS> O1 S Never Verb O2 S Never Verb O1 S Verb P O3 <EOS>
+<BOS> O1 S Never Verb O2 <EOS>
+<BOS> O1 S Never Verb P O3 Adv <EOS>
+<BOS> O1 <EOS>
+<BOS> O1 O2  O1 S Aux Never Verb Adv <EOS>
+<BOS> O1 O2  Never Verb O2 <EOS>
+<BOS> O1 O2  Never Verb P O3 <EOS>
+<BOS> O1 O2 Adv S Verb O1 S Aux Not Verb O1 O2 S Verb P <EOS>
+<BOS> O1 O2 Adv <EOS>
+<BOS> O1 O2 S Aux Not Verb O1 O2 S Aux Verb O1 O2 S Never Verb O1 O2 S Aux Verb O2 S Never Verb O1 O2 P O3 <EOS>
+<BOS> O1 O2 S Aux Not Verb O1 P <EOS>
+<BOS> O1 O2 S Aux Verb <EOS>
+<BOS> O1 O2 S Aux Verb O1 <EOS>
+<BOS> O1 O2 S Aux Verb P O3 <EOS>
+<BOS> O1 O2 S Aux Never Verb <EOS>
+<BOS> O1 O2 S Aux Never Verb O1 <EOS>
+<BOS> O1 O2 S Aux Never Verb O1 O2 <EOS>
+<BOS> O1 O2 S Aux Never Verb P Adv S Verb O1 Adv <EOS>
+<BOS> O1 O2 S Verb <EOS>
+<BOS> O1 O2 S Verb O1 S Aux Never Verb O2 S Aux Never Verb <EOS>
+<BOS> O1 O2 S Verb O1 <EOS>
+<BOS> O1 O2 S Verb O1 O2 <EOS>
+<BOS> O1 O2 S Verb O1 P O3 S Aux Never Verb O1 P O3 <EOS>
+<BOS> O1 O2 <EOS>
+<BOS> O1 O2 P  Verb O2 P <EOS>
+<BOS> O1 O2 P Adv S Never Verb O2 <EOS>
+<BOS> O1 O2 P Adv <EOS>
+<BOS> O1 O2 P <EOS>
+<BOS> O1 O2 P O3 Adv S Verb O1 Adv <EOS>
+<BOS> O1 O2 P O3 Adv <EOS>
+<BOS> O1 O2 P O3 S Aux Not Verb O1 S Aux Verb <EOS>
+<BOS> O1 O2 P O3 S Aux Verb O1 P Adv S Verb <EOS>
+<BOS> O1 O2 P O3 S Aux Never  P O3 <EOS>
+<BOS> O1 O2 P O3 S Aux Never Verb O1 S Aux Never Verb <EOS>
+<BOS> O1 O2 P O3 S Aux Never Verb O1 S Aux Never Verb O1 S Aux Not Verb O1 O2 S Aux Verb O1 P O3 S Aux Never Verb O2 S Aux Never Verb O1 S Aux  Adv <EOS>
+<BOS> O1 O2 P O3 S Aux Never Verb O1 O2 S Verb O1 P O3 <EOS>
+<BOS> O1 O2 P O3 S Aux Never Verb O1 O2 <EOS>
+<BOS> O1 O2 P O3 S Verb P O3 <EOS>
+<BOS> O1 O2 P O3 S Never Verb O1 S Verb O1 S Aux Verb O2 S Aux Never Verb O1 P O3 <EOS>
+<BOS> O1 O2 P O3 <EOS>
+<BOS> O1 P Adv S Aux Verb O1 O2 S Aux Never Verb O1 O2 P <EOS>
+<BOS> O1 P Adv S Verb O2 P O3 <EOS>
+<BOS> O1 P Adv <EOS>
+<BOS> O1 P <EOS>
+<BOS> O1 P O3 Adv S Aux Never Verb P <EOS>
+<BOS> O1 P O3 Adv S Verb O1 S Never Verb P O3  Aux Verb O1 <EOS>
+<BOS> O1 P O3 Adv <EOS>
+<BOS> O1 P O3 S Aux  Aux Never Verb P <EOS>
+<BOS> O1 P O3 S Aux Not Verb <EOS>
+<BOS> O1 P O3 S Aux Not Verb O1 <EOS>
+<BOS> O1 P O3 S Aux Not Verb O1 O2 P O3 <EOS>
+<BOS> O1 P O3 S Aux Not Verb O2 P O3 <EOS>
+<BOS> O1 P O3 S Aux Not Verb P O3 <EOS>
+<BOS> O1 P O3 S Aux Verb Adv <EOS>
+<BOS> O1 P O3 S Aux Verb O1 P O3 <EOS>
+<BOS> O1 P O3 S Aux Never Verb O1 Adv S Aux Not Verb P O3  O2 <EOS>
+<BOS> O1 P O3 S Aux Never Verb P O3 S Aux Not Verb O2 P O3 <EOS>
+<BOS> O1 P O3 S Verb O1 S Never Verb O1 P O3 S Aux Not Verb O2 Adv S Aux Never Verb O2 P O3 Adv <EOS>
+<BOS> O1 P O3 S Verb O1 O2 S  Adv <EOS>
+<BOS> O1 P O3 S Verb O1 O2 P O3 S Never Verb O1 S Never Verb O1 <EOS>
+<BOS> O1 P O3 S Verb O2 P O3 Adv <EOS>
+<BOS> O1 P O3 <EOS>
+<BOS> O2  O2 S Never Verb P O3 <EOS>
+<BOS> O2  O2 P O3 <EOS>
+<BOS> O2 Adv S Aux Never Verb O1 P O3 S Verb P O3 S Never Verb O1 O2 Adv <EOS>
+<BOS> O2 Adv S Verb O1 P O3 <EOS>
+<BOS> O2 Adv S Never Verb Adv <EOS>
+<BOS> O2 Adv S Never Verb O1 O2 <EOS>
+<BOS> O2 Adv <EOS>
+<BOS> O2 S Aux Not Verb O1 S Never Verb O1 O2 P O3 <EOS>
+<BOS> O2 S Aux Not Verb O1 O2 Adv <EOS>
+<BOS> O2 S Aux Not Verb O1 O2 P O3 Adv <EOS>
+<BOS> O2 S Aux Not Verb P O3 Adv <EOS>
+<BOS> O2 S Aux Verb <EOS>
+<BOS> O2 S Aux Verb O1 S Aux Never Verb P Adv <EOS>
+<BOS> O2 S Aux Verb O1 <EOS>
+<BOS> O2 S Aux Verb O1 O2 Adv <EOS>
+<BOS> O2 S Aux Verb O1 O2 <EOS>
+<BOS> O2 S Aux Verb P <EOS>
+<BOS> O2 S Aux Verb P O3 <EOS>
+<BOS> O2 S Aux Never Verb O1 S Verb O1 O2 S Aux Not Verb O1 <EOS>
+<BOS> O2 S Aux Never Verb P Adv <EOS>
+<BOS> O2 S Aux Never Verb P <EOS>
+<BOS> O2 S Aux Never Verb P O3 S Never Verb O1 O2 S Never Verb O1 S Aux  S Aux Not Verb O1 P Adv S Aux Verb O1 O2 P O3 <EOS>
+<BOS> O2 S Verb Adv S Never Verb O1 P Adv <EOS>
+<BOS> O2 S Verb O1 <EOS>
+<BOS> O2 S Verb O1 O2 S Aux Never Verb O1 P Adv <EOS>
+<BOS> O2 S Verb P  Verb O1 S Aux Never Verb <EOS>
+<BOS> O2 S Never Verb Adv S Never Verb O1 S Aux Not Verb O1 Adv <EOS>
+<BOS> O2 S Never Verb O1 Adv S Never Verb O1 P O3 Adv S Verb Adv <EOS>
+<BOS> O2 S Never Verb O2 P Adv <EOS>
+<BOS> O2 S Never Verb O2 P O3 <EOS>
+<BOS> O2 <EOS>
+<BOS> O2 P Adv S Verb O1 S Aux Verb <EOS>
+<BOS> O2 P Adv <EOS>
+<BOS> O2 P <EOS>  <EOS>
+<BOS> O2 P <EOS>
+<BOS> O2 P O3 Adv S Verb P O3 <EOS>
+<BOS> O2 P O3 Adv <EOS>
+<BOS> O2 P O3 S  S Aux Never Verb P O3 <EOS>
+<BOS> O2 P O3 S Aux Not Verb O1 <EOS>
+<BOS> O2 P O3 S Aux Not Verb O2 <EOS>
+<BOS> O2 P O3 S Aux Never Verb O1 Adv <EOS>
+<BOS> O2 P O3 S Verb O1 O2 S Never Verb O1 S Aux Not Verb O1 O2 S Aux Never Verb O1 S Verb O1 O2 S Aux Not Verb P O3 S Verb O1 P O3 <EOS>
+<BOS> O2 P O3 S Verb P O3 Adv <EOS>
+<BOS> O2 P O3 S Never Verb O1 S Aux Verb <EOS>
+<BOS> O2 P O3 S Never Verb O1 S Aux Never Verb O1 S Aux Never Verb P Adv <EOS>
+<BOS> O2 P O3 S Never Verb O1 P O3 <EOS>
+<BOS> O2 P O3 <EOS>
+<BOS> O3  Verb O2 S Aux Verb P O3 Adv <EOS>
+<BOS> O3  P O3 <EOS>
+<BOS> O3  O3 <EOS>
+<BOS> O3 Adv S Aux Not Verb O1 O2 P <EOS>
+<BOS> O3 Adv S Aux Not Verb O1 P O3 Adv <EOS>
+<BOS> O3 Adv S Aux Not Verb P O3 Adv <EOS>
+<BOS> O3 Adv S Verb O1 P <EOS>
+<BOS> O3 Adv S Verb O1 P O3 <EOS>
+<BOS> O3 Adv S Verb O2 P O3 Adv <EOS>
+<BOS> O3 Adv S Never Verb O1 Adv S Verb O1 <EOS>
+<BOS> O3 Adv <EOS>
+<BOS> O3 S Aux  O3 Adv <EOS>
+<BOS> O3 S Aux Not Verb Adv S Aux Verb O2 P O3 S Aux Verb O1 O2 <EOS>
+<BOS> O3 S Aux Not Verb Adv <EOS>  Adv <EOS>
+<BOS> O3 S Aux Not Verb Adv <EOS>
+<BOS> O3 S Aux Not Verb <EOS>
+<BOS> O3 S Aux Not Verb O1 S Aux Verb O1 S Never Verb O1 Adv <EOS>
+<BOS> O3 S Aux Not Verb O1 O2 S Never Verb <EOS>
+<BOS> O3 S Aux Not Verb O1 P O3 S Verb <EOS>
+<BOS> O3 S Aux Verb O1 Adv S Aux Not Verb O1 O2 <EOS>
+<BOS> O3 S Aux Verb O1 S Aux Never Verb P Adv <EOS>
+<BOS> O3 S Aux Verb O1 <EOS>
+<BOS> O3 S Aux Verb O1 O2 <EOS>
+<BOS> O3 S Aux Verb O1 O2 P Adv S Aux Never Verb O1 O2 <EOS>
+<BOS> O3 S Aux Verb O1 P O3 Adv <EOS>
+<BOS> O3 S Aux Verb O2 S Aux Never Verb P Adv <EOS>
+<BOS> O3 S Aux Verb O2 P O3 S Verb Adv <EOS>
+<BOS> O3 S Aux Verb P O3 Adv <EOS>
+<BOS> O3 S Aux Never Verb Adv <EOS>
+<BOS> O3 S Aux Never Verb O1 Adv <EOS>
+<BOS> O3 S Aux Never Verb O1 S Aux Verb O1 S Verb O1 O2 P <EOS>
+<BOS> O3 S Aux Never Verb O1 S Aux Never Verb O1 P O3 <EOS>
+<BOS> O3 S Aux Never Verb O1 S Verb O1 P Adv <EOS>
+<BOS> O3 S Aux Never Verb O1 P O3 <EOS>
+<BOS> O3 S Aux Never Verb O2 P O3 <EOS>
+<BOS> O3 S Aux Never Verb P O3 <EOS>
+<BOS> O3 S Verb Adv <EOS>
+<BOS> O3 S Verb <EOS>
+<BOS> O3 S Verb O1 <EOS>
+<BOS> O3 S Verb O1 O2 <EOS>
+<BOS> O3 S Verb O1 O2 P Adv <EOS>
+<BOS> O3 S Verb O1 P O3 S Verb P O3 S Aux Verb P O3 <EOS>
+<BOS> O3 S Verb O2 <EOS>
+<BOS> O3 S Verb O2 P <EOS>
+<BOS> O3 S Verb P <EOS>
+<BOS> O3 S Verb P O3 Adv <EOS>
+<BOS> O3 S Never Verb Adv S Aux Never Verb O1 S Aux Not Verb <EOS>
+<BOS> O3 S Never Verb <EOS>
+<BOS> O3 S Never Verb O1 Adv <EOS>
+<BOS> O3 S Never Verb O1 S Aux Not Verb P <EOS>
+<BOS> O3 S Never Verb O1 S Aux Never Verb P  P O3 Adv <EOS>
+<BOS> O3 S Never Verb O1 <EOS>
+<BOS> O3 S Never Verb O1 P Adv <EOS>
+<BOS> O3 S Never Verb P Adv <EOS>
+<BOS> O3 S Never Verb P O3 Adv <EOS>
+<BOS> O3 S Never Verb P O3 S Never Verb P O3 <EOS>
+<BOS> O3 <EOS>
