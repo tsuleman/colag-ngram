@@ -1,0 +1,93 @@
+S
+O1 Verb Not Verb Never Verb
+O1 Verb Not Verb Never Aux S
+O1 Verb Not Aux S
+O1 Verb Never Aux S
+O1 Verb
+Verb Not Verb Not Aux
+Verb Not Aux S
+Verb
+Not Verb Not Verb S
+Not Verb S
+O2 O1 Verb Not Aux Verb Not Aux S
+O2 O1 Verb S
+O2 O1 Never Aux S
+O2 Not Aux S
+O3 P O1 Verb Aux
+O3 P O1 Verb S
+O3 P O1 Verb Never Verb S
+O3 P O1 Verb Never Aux S
+O3 P O1 Verb
+O3 P O1 Not Verb Aux
+O3 P O1 Never Aux
+O3 P Verb Aux S
+O3 P Verb S
+O3 P Verb
+O3 P Not Verb
+O3 P O2 O1 Verb Not Aux
+O3 P O2 O1 Verb Aux S
+O3 P O2 O1 Verb Never Aux
+O3 P O2 O1 Verb
+O3 P O2 O1 Never Verb
+O3 P O2 O1 Never Aux
+O3 P O2 Verb S
+O3 P Never Verb Aux
+O3 P Never Verb S
+P O1 Verb Not Verb Not Verb
+P O1 Verb Not Aux S
+P O1 Verb S
+P Verb Aux S
+Adv[+WA] O1 Never Aux S
+Adv[+WA] Verb Aux S
+Adv[+WA] O2 O1 Verb Never Aux
+Adv[+WA] O3 P O1 Not Aux S
+Adv[+WA] O3 P O2 O1 Not Verb S
+Adv[+WA] O3 P O2 Verb S
+Adv O1 Verb Aux
+Adv O1 Verb S
+Adv Verb Not Verb S
+Adv Verb S
+Adv Verb Never Aux
+Adv Not Verb
+Adv O2 O1 Verb Not Aux S
+Adv O2 O1 Verb S
+Adv O2 Verb S
+Adv O3 P O1 Verb S
+Adv O3 P Verb S
+Adv O3 P Verb Never Verb Aux S
+Adv O3 P Verb Never Aux S
+Adv O3 P O2 O1 Verb S
+Adv O3 P O2 Verb Not Verb S
+Adv O3 P O2 Verb Aux
+Adv O3 P O2 Never Verb Not Aux S
+Adv P O1 Verb S
+Adv P O1 Never Verb S
+Adv P O2 O1 Never Aux
+Adv P O2 Verb S
+O1[+WA] O2 O1 Verb Not Verb
+O1[+WA] O2 Verb Never Aux S
+O1[+WA] O3 P O1 Verb S
+O1[+WA] O3 P Verb Never Verb S
+O1[+WA] Adv O1 Verb S
+O2[+WA] O3 P Verb S
+O2[+WA] Adv O2 O1 Never Verb S
+O2[+WA] Adv O3 P O1 Never Aux
+O2[+WA] Adv P Verb Never Verb
+O3[+WA] P Verb S
+O3[+WA] P O2 O1 Not Aux S
+O3[+WA] P O2 Verb
+O3[+WA] Adv O1 Never Aux
+O3[+WA] Adv Not Aux S
+O3[+WA] Adv O3 P Verb Not Aux
+O3[+WA] Adv O3 P O2 O1 Verb S
+S[+WA] S
+S[+WA] O1[+WA] Adv Verb
+S[+WA] O1 Never Verb Not Aux S
+S[+WA] O3 P Verb Aux S
+S[+WA] O3 P O2 O1 Verb
+S[+WA] O3 P Never Verb S
+S[+WA] Adv O1 Not Verb S
+S[+WA] Adv O1 Never Verb S
+S[+WA] Adv O2 O1 Never Aux
+S[+WA] Adv O3 P O1 Verb Aux S
+S[+WA] Adv O3 P O1 Verb S
